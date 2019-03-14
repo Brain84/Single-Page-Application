@@ -1,0 +1,27 @@
+.app__header {
+  position: relative;
+  height: 100vh;
+}
+.header__title {
+  position: absolute;
+  left: 0;
+  top: 20%;
+  width: 40rem;
+  height: 20rem;
+  color: #fff;
+  font-size: 7rem;
+  font-weight: 400;
+  letter-spacing: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+.header__description {
+  position: absolute;
+  left: 2%;
+  top: 52%;
+  color: #fff;
+  font-size: 1.6rem;
+  letter-spacing: 2px;
+  max-width: 30rem;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
